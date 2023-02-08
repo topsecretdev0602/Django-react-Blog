@@ -73,5 +73,3 @@ API Documentation is generated using the default tool provided by Django Rest Fr
 1. Make sure that the Backend Server is running.
 
 **Regrads**
-
- Rahul Raj
